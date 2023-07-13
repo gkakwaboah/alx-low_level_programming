@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -S $CFILE #This is a command to generate the assembly code of a C file specified by the environment variable CFILE and save it in an output file. The -S option tells GCC to stop after the compilation stage and produce an assembly file as output. The output file will have the same name as the C file, but with the extension .s instead of .c
