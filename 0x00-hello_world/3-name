@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc $CFILE -o cisfun #compiles a C file and creates an executable named cisfun
