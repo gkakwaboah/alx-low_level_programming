@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -E $CFILE -o c #This is a command to run the C preprocessor on a file specified by the environment variable CFILE and save the output to a file named c. The -E option tells GCC to stop after the preprocessing stage and print the output to the standard output. The -o option specifies the name of the output file.
