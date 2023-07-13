@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -c $CFILE #This is a command to compile a C file specified by the environment variable CFILE into an object file, but not link it. The -c option tells GCC to stop after the compilation stage and produce an object file as output. The object file will have the same name as the C file, but with the extension .o instead of .c
