@@ -24,4 +24,3 @@ File: 100-atoi.c is a function that convert a string to an integer.
 
 File: 101-keygen.c is a program that generates random valid passwords for the program 101-crackme.
 
-File: _putchar.c contains the _putchar() function definition.
