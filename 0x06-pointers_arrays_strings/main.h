@@ -13,4 +13,5 @@ char *leet(char *);
 char *rot13(char *);
 char *_strstr(char *haystack, char *needle);
 void print_number(int n);
+char *infinite_add(char *n1, char *n2, char *r, int size_r);
 #endif
